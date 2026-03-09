@@ -74,11 +74,5 @@ def main():
     print(m)
     print(np.mean(y_pred == y_test))
 
-
-
-
-
-
-
 if __name__ == "__main__":
     main()
