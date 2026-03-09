@@ -8,7 +8,7 @@ import models
 def main():
 
     # Transform the CSV file into a pandas df
-    path = '/Users/afonsolopes/SVM-classification/OJ.csv'
+    path = 'path'
     oj = data.csv_to_pd(path)
 
     # Define the predictors and the response 
