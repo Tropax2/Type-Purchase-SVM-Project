@@ -1,0 +1,5 @@
+# Python virtual environmnent
+
+# Python Cachse
+__pycache__/
+*.py[cod]
